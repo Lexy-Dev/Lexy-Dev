@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Lexy-Dev
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning front-end
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: You can't and you may not.
+- 😄 Pronouns: Any
+- ⚡ Fun fact: I'm starting from zero, and will be trying to learn HTML, JavaScript and C# :P
